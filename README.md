@@ -1,4 +1,4 @@
-# Responsive L&L Store Website 🎃
+# Website Responsivo L&L Store !!
 
 - Website responsivo Usando HTML, CSS & JavaScript.
 - Contém animações ao rolar .
